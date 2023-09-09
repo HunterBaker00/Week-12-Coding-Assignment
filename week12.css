@@ -1,0 +1,17 @@
+/* * {
+    border: 1px solid red;
+} */
+
+body {
+    background: gray;
+    display: flex;
+    flex-direction: column;
+}
+
+.formControl {
+    display: flex;
+    justify-content: space-around;
+    align-items: end;
+    /* border: 3px solid red; */
+    background-color: rgba(60, 84, 94, 0.664);
+}
